@@ -1,0 +1,788 @@
+*Node data
+"ID", "Degree", "Betweenness", "Closeness", "HarmonicCloseness", "Eigenvector", "2-Local Eigenvector", "mirko", "katia", "ema", "rina", "rocco"
+"A2a","3","29,963","847,000","22,876","0,024","16,000","1,000","2,000","3","4,000","5,000"
+"Acea","0","0,000","5184,000","0,000","0,000","0,000","2,000","1,000","3","4,000","5,000"
+"Alleanza Assicurazioni","9","96,351","801,000","30,900","0,176","80,000","3","4,000","2,000","5,000","1,000"
+"Arnoldo Mondadori Editore","5","20,813","825,000","26,067","0,075","36,000","2,000","0,000","2,000","4,000","5,000"
+"Assicurazioni Generali","15","427,066","785,000","35,167","0,279","122,000","3","0,000","0,000","0,000","0,000"
+"Atlantia","10","228,613","791,000","32,983","0,154","85,000","0,000","0,000","0,000","0,000","0,000"
+"Autogrill","7","55,344","808,000","29,233","0,135","66,000","0,000","0,000","0,000","0,000","0,000"
+"Autostrada Torino Milano","5","34,142","835,000","24,933","0,038","24,000","0,000","0,000","0,000","0,000","0,000"
+"Azimut Holding","0","0,000","5184,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Carige","1","0,000","866,000","20,050","0,013","8,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Italease","3","70,295","895,000","18,776","0,004","7,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Monte Dei Paschi Di Siena","2","180,000","841,000","23,083","0,031","17,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Popolare Dell'Emilia Romagna","1","0,000","1021,000","11,865","0,000","2,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Popolare Di Milano","1","0,000","5113,000","1,000","0,000","1,000","0,000","0,000","0,000","0,000","0,000"
+"Banca Popolare Di Sondrio","2","1,000","841,000","23,183","0,045","19,000","0,000","0,000","0,000","0,000","0,000"
+"Banco Popolare","4","128,674","839,000","23,900","0,032","18,000","0,000","0,000","0,000","0,000","0,000"
+"Benetton Group","6","12,670","803,000","29,400","0,155","78,000","0,000","0,000","0,000","0,000","0,000"
+"Beni Stabili","2","0,000","834,000","23,967","0,043","25,000","0,000","0,000","0,000","0,000","0,000"
+"Bulgari","2","0,000","852,000","21,967","0,028","17,000","0,000","0,000","0,000","0,000","0,000"
+"Buzzi Unicem","1","0,000","5113,000","1,000","0,000","1,000","0,000","0,000","0,000","0,000","0,000"
+"C.I.R.","3","4,124","861,000","21,483","0,023","11,000","0,000","0,000","0,000","0,000","0,000"
+"Credito Bergamasco","2","0,000","857,000","21,443","0,023","13,000","0,000","0,000","0,000","0,000","0,000"
+"Credito Emiliano","2","3,547","859,000","21,443","0,023","12,000","0,000","0,000","0,000","0,000","0,000"
+"Credito Valtellinese","2","0,000","880,000","19,385","0,007","8,000","0,000","0,000","0,000","0,000","0,000"
+"Davide Campari - Milano","4","25,987","840,000","24,410","0,028","22,000","0,000","0,000","0,000","0,000","0,000"
+"Edison","5","116,398","830,000","25,826","0,036","26,000","0,000","0,000","0,000","0,000","0,000"
+"Enel","1","0,000","872,000","19,710","0,020","8,000","0,000","0,000","0,000","0,000","0,000"
+"Eni","8","139,823","804,000","30,100","0,114","62,000","0,000","0,000","0,000","0,000","0,000"
+"Enia","1","0,000","892,000","18,085","0,004","5,000","0,000","0,000","0,000","0,000","0,000"
+"Erg","1","0,000","957,000","14,327","0,000","3,000","0,000","0,000","0,000","0,000","0,000"
+"Exor","3","2,250","828,000","24,983","0,070","33,000","0,000","0,000","0,000","0,000","0,000"
+"Fastweb","2","53,205","862,000","20,893","0,019","9,000","0,000","0,000","0,000","0,000","0,000"
+"Fiat","10","148,867","797,000","31,867","0,139","68,000","0,000","0,000","0,000","0,000","0,000"
+"Finmeccanica","2","1,100","847,000","22,433","0,032","15,000","0,000","0,000","0,000","0,000","0,000"
+"Fondiaria - Sai","7","122,683","806,000","29,533","0,172","77,000","0,000","0,000","0,000","0,000","0,000"
+"Gemina","3","3,389","840,000","23,600","0,052","24,000","0,000","0,000","0,000","0,000","0,000"
+"Geox","1","0,000","834,000","23,483","0,042","20,000","0,000","0,000","0,000","0,000","0,000"
+"Gruppo Editoriale L'Espresso","4","23,381","838,000","24,433","0,027","21,000","0,000","0,000","0,000","0,000","0,000"
+"Hera","2","62,000","959,000","14,614","0,000","3,000","0,000","0,000","0,000","0,000","0,000"
+"Impregilo","6","86,312","819,000","27,426","0,066","36,000","0,000","0,000","0,000","0,000","0,000"
+"Indesit Company","5","35,731","825,000","26,493","0,053","33,000","0,000","0,000","0,000","0,000","0,000"
+"Intesa Sanpaolo","7","33,333","802,000","29,900","0,173","80,000","0,000","0,000","0,000","0,000","0,000"
+"Iride","3","18,100","822,000","25,567","0,068","33,000","0,000","0,000","0,000","0,000","0,000"
+"Italcementi","12","221,524","793,000","33,317","0,235","108,000","0,000","0,000","0,000","0,000","0,000"
+"Italmobiliare","9","41,913","791,000","32,117","0,255","111,000","0,000","0,000","0,000","0,000","0,000"
+"Lottomatica","2","1,268","838,000","23,383","0,045","22,000","0,000","0,000","0,000","0,000","0,000"
+"Luxottica Group","10","153,757","806,000","30,683","0,117","61,000","0,000","0,000","0,000","0,000","0,000"
+"Maire Tecnimont","2","0,000","857,000","21,267","0,021","13,000","0,000","0,000","0,000","0,000","0,000"
+"Mediaset","7","23,309","812,000","28,733","0,146","70,000","0,000","0,000","0,000","0,000","0,000"
+"Mediobanca","16","221,521","779,000","36,450","0,341","145,000","0,000","0,000","0,000","0,000","0,000"
+"Mediolanum","3","0,000","835,000","24,183","0,062","28,000","0,000","0,000","0,000","0,000","0,000"
+"Milano Assicurazioni","9","221,366","800,000","31,033","0,178","82,000","0,000","0,000","0,000","0,000","0,000"
+"Parmalat","6","46,566","805,000","29,400","0,116","61,000","0,000","0,000","0,000","0,000","0,000"
+"Pirelli & C.","20","366,136","772,000","38,867","0,387","163,000","0,000","0,000","0,000","0,000","0,000"
+"Pirelli & C. Real Estate","4","29,675","821,000","26,483","0,118","54,000","0,000","0,000","0,000","0,000","0,000"
+"Prysmian","1","0,000","853,000","21,326","0,017","10,000","0,000","0,000","0,000","0,000","0,000"
+"Rcs Mediagroup","15","178,889","781,000","35,700","0,320","136,000","0,000","0,000","0,000","0,000","0,000"
+"Recordati","1","0,000","5113,000","1,000","0,000","1,000","0,000","0,000","0,000","0,000","0,000"
+"Saipem","1","0,000","868,000","20,150","0,013","10,000","0,000","0,000","0,000","0,000","0,000"
+"Saras","3","16,490","824,000","25,650","0,051","29,000","0,000","0,000","0,000","0,000","0,000"
+"Seat Pagine Gialle","2","3,500","916,000","17,068","0,003","5,000","0,000","0,000","0,000","0,000","0,000"
+"Snam Rete Gas","0","0,000","5184,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000"
+"Società Cattolica Assicurazioni","1","0,000","915,000","16,327","0,003","2,000","0,000","0,000","0,000","0,000","0,000"
+"Societa' Iniziative Autostradali E Servizi - Sias","2","0,000","868,000","20,393","0,011","11,000","0,000","0,000","0,000","0,000","0,000"
+"Telecom Italia","9","37,882","797,000","31,400","0,233","104,000","3","0,000","0,000","0,000","0,000"
+"Tenaris","1","0,000","5113,000","1,000","0,000","1,000","0,000","0,000","0,000","0,000","0,000"
+"Terna","3","5,697","824,000","25,650","0,066","34,000","0,000","0,000","0,000","0,000","0,000"
+"Tiscali","0","0,000","5184,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000","0,000"
+"Tod'S","4","82,700","808,000","27,617","0,085","44,000","0,000","0,000","0,000","0,000","0,000"
+"Unicredit","8","116,646","810,000","29,483","0,181","78,000","0,000","0,000","0,000","0,000","0,000"
+"Unione Di Banche Italiane","2","62,000","853,000","21,993","0,026","13,000","0,000","0,000","0,000","0,000","0,000"
+"Unipol","2","122,000","899,000","17,850","0,003","4,000","0,000","0,000","0,000","0,000","0,000"
+*Node properties
+ID x y color shape size labeltext labelsize labelcolor gapx gapy active
+"A2a" 848 616 255 10 7 "A2a" 11 0 3 5 TRUE
+"Acea" 10 10 16711680 10 4 "Acea" 11 0 3 5 TRUE
+"Alleanza Assicurazioni" 677 604 0 10 13 "Alleanza Assicurazioni" 11 0 3 5 TRUE
+"Arnoldo Mondadori Editore" 496 682 8421504 10 9 "Arnoldo Mondadori Editore" 11 0 3 5 TRUE
+"Assicurazioni Generali" 375 166 16711935 10 19 "Assicurazioni Generali" 11 0 3 5 TRUE
+"Atlantia" 1016 297 32768 10 14 "Atlantia" 11 0 3 5 TRUE
+"Autogrill" 426 621 65280 10 11 "Autogrill" 11 0 3 5 TRUE
+"Autostrada Torino Milano" 824 566 16776960 10 9 "Autostrada Torino Milano" 11 0 3 5 TRUE
+"Azimut Holding" 10 26 65535 10 4 "Azimut Holding" 11 0 3 5 TRUE
+"Banca Carige" 416 763 8421504 10 5 "Banca Carige" 11 0 3 5 TRUE
+"Banca Italease" 1121 114 128 10 7 "Banca Italease" 11 0 3 5 TRUE
+"Banca Monte Dei Paschi Di Siena" 53 382 8388608 10 6 "Banca Monte Dei Paschi Di Siena" 11 0 3 5 TRUE
+"Banca Popolare Dell'Emilia Romagna" 15 121 32896 10 5 "Banca Popolare Dell'Emilia Romagna" 11 0 3 5 TRUE
+"Banca Popolare Di Milano" 558 20 8388736 10 5 "Banca Popolare Di Milano" 11 0 3 5 TRUE
+"Banca Popolare Di Sondrio" 22 540 12632256 10 6 "Banca Popolare Di Sondrio" 11 0 3 5 TRUE
+"Banco Popolare" 1137 283 8421376 10 8 "Banco Popolare" 11 0 3 5 TRUE
+"Benetton Group" 379 567 16777215 10 10 "Benetton Group" 11 0 3 5 TRUE
+"Beni Stabili" 66 463 12632256 10 6 "Beni Stabili" 11 0 3 5 TRUE
+"Bulgari" 46 617 255 10 6 "Bulgari" 11 0 3 5 TRUE
+"Buzzi Unicem" 1137 661 16711680 10 5 "Buzzi Unicem" 11 0 3 5 TRUE
+"C.I.R." 505 95 0 10 7 "C.I.R." 11 0 3 5 TRUE
+"Credito Bergamasco" 1159 151 8421504 10 6 "Credito Bergamasco" 11 0 3 5 TRUE
+"Credito Emiliano" 794 80 16711935 10 6 "Credito Emiliano" 11 0 3 5 TRUE
+"Credito Valtellinese" 930 732 32768 10 6 "Credito Valtellinese" 11 0 3 5 TRUE
+"Davide Campari - Milano" 972 175 65280 10 8 "Davide Campari - Milano" 11 0 3 5 TRUE
+"Edison" 757 658 16776960 10 9 "Edison" 11 0 3 5 TRUE
+"Enel" 667 66 65535 10 5 "Enel" 11 0 3 5 TRUE
+"Eni" 339 444 8421504 10 12 "Eni" 11 0 3 5 TRUE
+"Enia" 822 773 128 10 5 "Enia" 11 0 3 5 TRUE
+"Erg" 1194 33 8388608 10 5 "Erg" 11 0 3 5 TRUE
+"Exor" 785 210 32896 10 7 "Exor" 11 0 3 5 TRUE
+"Fastweb" 1017 242 8388736 10 6 "Fastweb" 11 0 3 5 TRUE
+"Fiat" 691 471 12632256 10 14 "Fiat" 11 0 3 5 TRUE
+"Finmeccanica" 580 741 8421376 10 6 "Finmeccanica" 11 0 3 5 TRUE
+"Fondiaria - Sai" 791 459 16777215 10 11 "Fondiaria - Sai" 11 0 3 5 TRUE
+"Gemina" 755 697 12632256 10 7 "Gemina" 11 0 3 5 TRUE
+"Geox" 587 104 255 10 5 "Geox" 11 0 3 5 TRUE
+"Gruppo Editoriale L'Espresso" 551 172 16711680 10 8 "Gruppo Editoriale L'Espresso" 11 0 3 5 TRUE
+"Hera" 24 200 0 10 6 "Hera" 11 0 3 5 TRUE
+"Impregilo" 974 674 8421504 10 10 "Impregilo" 11 0 3 5 TRUE
+"Indesit Company" 713 125 16711935 10 9 "Indesit Company" 11 0 3 5 TRUE
+"Intesa Sanpaolo" 478 525 32768 10 11 "Intesa Sanpaolo" 11 0 3 5 TRUE
+"Iride" 439 400 65280 10 7 "Iride" 11 0 3 5 TRUE
+"Italcementi" 399 346 16776960 10 16 "Italcementi" 11 0 3 5 TRUE
+"Italmobiliare" 434 480 65535 10 13 "Italmobiliare" 11 0 3 5 TRUE
+"Lottomatica" 184 774 8421504 10 6 "Lottomatica" 11 0 3 5 TRUE
+"Luxottica Group" 289 692 128 10 14 "Luxottica Group" 11 0 3 5 TRUE
+"Maire Tecnimont" 500 785 8388608 10 6 "Maire Tecnimont" 11 0 3 5 TRUE
+"Mediaset" 569 628 32896 10 11 "Mediaset" 11 0 3 5 TRUE
+"Mediobanca" 629 528 8388736 10 20 "Mediobanca" 11 0 3 5 TRUE
+"Mediolanum" 669 705 12632256 10 7 "Mediolanum" 11 0 3 5 TRUE
+"Milano Assicurazioni" 1172 342 8421376 10 13 "Milano Assicurazioni" 11 0 3 5 TRUE
+"Parmalat" 319 756 16777215 10 10 "Parmalat" 11 0 3 5 TRUE
+"Pirelli & C." 643 251 12632256 10 24 "Pirelli & C." 11 0 3 5 TRUE
+"Pirelli & C. Real Estate" 536 423 255 10 8 "Pirelli & C. Real Estate" 11 0 3 5 TRUE
+"Prysmian" 631 772 16711680 10 5 "Prysmian" 11 0 3 5 TRUE
+"Rcs Mediagroup" 1170 471 0 10 19 "Rcs Mediagroup" 11 0 3 5 TRUE
+"Recordati" 822 47 8421504 10 5 "Recordati" 11 0 3 5 TRUE
+"Saipem" 87 719 16711935 10 5 "Saipem" 11 0 3 5 TRUE
+"Saras" 499 388 32768 10 7 "Saras" 11 0 3 5 TRUE
+"Seat Pagine Gialle" 976 24 65280 10 6 "Seat Pagine Gialle" 11 0 3 5 TRUE
+"Snam Rete Gas" 10 42 16776960 10 4 "Snam Rete Gas" 11 0 3 5 TRUE
+"Società Cattolica Assicurazioni" 247 77 65535 10 5 "Società Cattolica Assicurazioni" 11 0 3 5 TRUE
+"Societa' Iniziative Autostradali E Servizi - Sias" 993 619 8421504 10 6 "Societa' Iniziative Autostradali E Servizi - Sias" 11 0 3 5 TRUE
+"Telecom Italia" 1156 575 128 10 13 "Telecom Italia" 11 0 3 5 TRUE
+"Tenaris" 1094 755 8388608 10 5 "Tenaris" 11 0 3 5 TRUE
+"Terna" 770 544 32896 10 7 "Terna" 11 0 3 5 TRUE
+"Tiscali" 10 58 8388736 10 4 "Tiscali" 11 0 3 5 TRUE
+"Tod'S" 720 356 12632256 10 8 "Tod'S" 11 0 3 5 TRUE
+"Unicredit" 807 285 8421376 10 12 "Unicredit" 11 0 3 5 TRUE
+"Unione Di Banche Italiane" 208 238 16777215 10 6 "Unione Di Banche Italiane" 11 0 3 5 TRUE
+"Unipol" 40 289 12632256 10 6 "Unipol" 11 0 3 5 TRUE
+*Tie data
+FROM TO "SEMPLICEsoc. x soc"
+"A2a","Credito Valtellinese",1
+"A2a","Edison",4
+"A2a","Milano Assicurazioni",1
+"Alleanza Assicurazioni","Assicurazioni Generali",2
+"Alleanza Assicurazioni","Autostrada Torino Milano",1
+"Alleanza Assicurazioni","Finmeccanica",1
+"Alleanza Assicurazioni","Gemina",1
+"Alleanza Assicurazioni","Intesa Sanpaolo",1
+"Alleanza Assicurazioni","Mediobanca",1
+"Alleanza Assicurazioni","Pirelli & C.",1
+"Alleanza Assicurazioni","Telecom Italia",1
+"Alleanza Assicurazioni","Terna",1
+"Arnoldo Mondadori Editore","Eni",2
+"Arnoldo Mondadori Editore","Maire Tecnimont",1
+"Arnoldo Mondadori Editore","Mediaset",4
+"Arnoldo Mondadori Editore","Mediobanca",1
+"Arnoldo Mondadori Editore","Mediolanum",2
+"Assicurazioni Generali","Alleanza Assicurazioni",2
+"Assicurazioni Generali","Banca Monte Dei Paschi Di Siena",1
+"Assicurazioni Generali","Benetton Group",1
+"Assicurazioni Generali","Beni Stabili",1
+"Assicurazioni Generali","Eni",1
+"Assicurazioni Generali","Intesa Sanpaolo",1
+"Assicurazioni Generali","Iride",1
+"Assicurazioni Generali","Italmobiliare",1
+"Assicurazioni Generali","Lottomatica",1
+"Assicurazioni Generali","Luxottica Group",1
+"Assicurazioni Generali","Mediobanca",2
+"Assicurazioni Generali","Pirelli & C.",1
+"Assicurazioni Generali","Rcs Mediagroup",1
+"Assicurazioni Generali","Telecom Italia",1
+"Assicurazioni Generali","Tod'S",1
+"Atlantia","Autogrill",1
+"Atlantia","Benetton Group",1
+"Atlantia","Edison",1
+"Atlantia","Eni",1
+"Atlantia","Fiat",1
+"Atlantia","Impregilo",3
+"Atlantia","Italcementi",2
+"Atlantia","Luxottica Group",1
+"Atlantia","Pirelli & C.",1
+"Atlantia","Prysmian",1
+"Autogrill","Atlantia",1
+"Autogrill","Benetton Group",5
+"Autogrill","Bulgari",1
+"Autogrill","Lottomatica",1
+"Autogrill","Luxottica Group",2
+"Autogrill","Mediobanca",1
+"Autogrill","Pirelli & C.",1
+"Autostrada Torino Milano","Alleanza Assicurazioni",1
+"Autostrada Torino Milano","Davide Campari - Milano",1
+"Autostrada Torino Milano","Impregilo",1
+"Autostrada Torino Milano","Societa' Iniziative Autostradali E Servizi - Sias",5
+"Autostrada Torino Milano","Terna",1
+"Banca Carige","Eni",1
+"Banca Italease","Banco Popolare",1
+"Banca Italease","Erg",1
+"Banca Italease","Seat Pagine Gialle",1
+"Banca Monte Dei Paschi Di Siena","Assicurazioni Generali",1
+"Banca Monte Dei Paschi Di Siena","Unipol",1
+"Banca Popolare Dell'Emilia Romagna","Hera",1
+"Banca Popolare Di Milano","Recordati",1
+"Banca Popolare Di Sondrio","Intesa Sanpaolo",1
+"Banca Popolare Di Sondrio","Italcementi",1
+"Banco Popolare","Banca Italease",1
+"Banco Popolare","Credito Bergamasco",3
+"Banco Popolare","Milano Assicurazioni",1
+"Banco Popolare","Tod'S",1
+"Benetton Group","Assicurazioni Generali",1
+"Benetton Group","Atlantia",1
+"Benetton Group","Autogrill",5
+"Benetton Group","Luxottica Group",1
+"Benetton Group","Mediobanca",1
+"Benetton Group","Pirelli & C.",1
+"Beni Stabili","Assicurazioni Generali",1
+"Beni Stabili","Luxottica Group",1
+"Bulgari","Autogrill",1
+"Bulgari","Luxottica Group",1
+"Buzzi Unicem","Tenaris",1
+"C.I.R.","Gruppo Editoriale L'Espresso",3
+"C.I.R.","Iride",1
+"C.I.R.","Pirelli & C. Real Estate",1
+"Credito Bergamasco","Banco Popolare",3
+"Credito Bergamasco","Milano Assicurazioni",1
+"Credito Emiliano","Davide Campari - Milano",1
+"Credito Emiliano","Unicredit",2
+"Credito Valtellinese","A2a",1
+"Credito Valtellinese","Edison",1
+"Davide Campari - Milano","Autostrada Torino Milano",1
+"Davide Campari - Milano","Credito Emiliano",1
+"Davide Campari - Milano","Fiat",1
+"Davide Campari - Milano","Indesit Company",1
+"Edison","A2a",4
+"Edison","Atlantia",1
+"Edison","Credito Valtellinese",1
+"Edison","Enia",1
+"Edison","Fiat",1
+"Enel","Unicredit",1
+"Eni","Arnoldo Mondadori Editore",2
+"Eni","Assicurazioni Generali",1
+"Eni","Atlantia",1
+"Eni","Banca Carige",1
+"Eni","Italcementi",1
+"Eni","Luxottica Group",1
+"Eni","Maire Tecnimont",1
+"Eni","Mediaset",1
+"Enia","Edison",1
+"Erg","Banca Italease",1
+"Exor","Fiat",4
+"Exor","Rcs Mediagroup",2
+"Exor","Unicredit",1
+"Fastweb","Fondiaria - Sai",1
+"Fastweb","Seat Pagine Gialle",1
+"Fiat","Atlantia",1
+"Fiat","Davide Campari - Milano",1
+"Fiat","Edison",1
+"Fiat","Exor",4
+"Fiat","Indesit Company",1
+"Fiat","Intesa Sanpaolo",1
+"Fiat","Parmalat",1
+"Fiat","Rcs Mediagroup",1
+"Fiat","Telecom Italia",1
+"Fiat","Tod'S",1
+"Finmeccanica","Alleanza Assicurazioni",1
+"Finmeccanica","Parmalat",1
+"Fondiaria - Sai","Fastweb",1
+"Fondiaria - Sai","Impregilo",1
+"Fondiaria - Sai","Italmobiliare",1
+"Fondiaria - Sai","Mediobanca",1
+"Fondiaria - Sai","Milano Assicurazioni",8
+"Fondiaria - Sai","Pirelli & C.",1
+"Fondiaria - Sai","Rcs Mediagroup",1
+"Gemina","Alleanza Assicurazioni",1
+"Gemina","Impregilo",1
+"Gemina","Telecom Italia",2
+"Geox","Pirelli & C.",1
+"Gruppo Editoriale L'Espresso","C.I.R.",3
+"Gruppo Editoriale L'Espresso","Indesit Company",1
+"Gruppo Editoriale L'Espresso","Luxottica Group",1
+"Gruppo Editoriale L'Espresso","Saras",1
+"Hera","Banca Popolare Dell'Emilia Romagna",1
+"Hera","Unipol",1
+"Impregilo","Atlantia",3
+"Impregilo","Autostrada Torino Milano",1
+"Impregilo","Fondiaria - Sai",1
+"Impregilo","Gemina",1
+"Impregilo","Milano Assicurazioni",1
+"Impregilo","Societa' Iniziative Autostradali E Servizi - Sias",2
+"Indesit Company","Davide Campari - Milano",1
+"Indesit Company","Fiat",1
+"Indesit Company","Gruppo Editoriale L'Espresso",1
+"Indesit Company","Italcementi",1
+"Indesit Company","Saras",1
+"Intesa Sanpaolo","Alleanza Assicurazioni",1
+"Intesa Sanpaolo","Assicurazioni Generali",1
+"Intesa Sanpaolo","Banca Popolare Di Sondrio",1
+"Intesa Sanpaolo","Fiat",1
+"Intesa Sanpaolo","Pirelli & C.",1
+"Intesa Sanpaolo","Rcs Mediagroup",1
+"Intesa Sanpaolo","Telecom Italia",1
+"Iride","Assicurazioni Generali",1
+"Iride","C.I.R.",1
+"Iride","Rcs Mediagroup",1
+"Italcementi","Atlantia",2
+"Italcementi","Banca Popolare Di Sondrio",1
+"Italcementi","Eni",1
+"Italcementi","Indesit Company",1
+"Italcementi","Italmobiliare",3
+"Italcementi","Mediaset",1
+"Italcementi","Mediobanca",2
+"Italcementi","Parmalat",1
+"Italcementi","Pirelli & C.",3
+"Italcementi","Rcs Mediagroup",1
+"Italcementi","Unicredit",1
+"Italcementi","Unione Di Banche Italiane",1
+"Italmobiliare","Assicurazioni Generali",1
+"Italmobiliare","Fondiaria - Sai",1
+"Italmobiliare","Italcementi",3
+"Italmobiliare","Mediobanca",3
+"Italmobiliare","Milano Assicurazioni",1
+"Italmobiliare","Pirelli & C.",1
+"Italmobiliare","Rcs Mediagroup",2
+"Italmobiliare","Telecom Italia",1
+"Italmobiliare","Unicredit",1
+"Lottomatica","Assicurazioni Generali",1
+"Lottomatica","Autogrill",1
+"Luxottica Group","Assicurazioni Generali",1
+"Luxottica Group","Atlantia",1
+"Luxottica Group","Autogrill",2
+"Luxottica Group","Benetton Group",1
+"Luxottica Group","Beni Stabili",1
+"Luxottica Group","Bulgari",1
+"Luxottica Group","Eni",1
+"Luxottica Group","Gruppo Editoriale L'Espresso",1
+"Luxottica Group","Parmalat",1
+"Luxottica Group","Saipem",1
+"Maire Tecnimont","Arnoldo Mondadori Editore",1
+"Maire Tecnimont","Eni",1
+"Mediaset","Arnoldo Mondadori Editore",4
+"Mediaset","Eni",1
+"Mediaset","Italcementi",1
+"Mediaset","Mediobanca",1
+"Mediaset","Mediolanum",3
+"Mediaset","Parmalat",1
+"Mediaset","Pirelli & C.",1
+"Mediobanca","Alleanza Assicurazioni",1
+"Mediobanca","Arnoldo Mondadori Editore",1
+"Mediobanca","Assicurazioni Generali",2
+"Mediobanca","Autogrill",1
+"Mediobanca","Benetton Group",1
+"Mediobanca","Fondiaria - Sai",1
+"Mediobanca","Italcementi",2
+"Mediobanca","Italmobiliare",3
+"Mediobanca","Mediaset",1
+"Mediobanca","Mediolanum",1
+"Mediobanca","Milano Assicurazioni",1
+"Mediobanca","Pirelli & C.",3
+"Mediobanca","Pirelli & C. Real Estate",1
+"Mediobanca","Rcs Mediagroup",4
+"Mediobanca","Telecom Italia",2
+"Mediobanca","Unicredit",3
+"Mediolanum","Arnoldo Mondadori Editore",2
+"Mediolanum","Mediaset",3
+"Mediolanum","Mediobanca",1
+"Milano Assicurazioni","A2a",1
+"Milano Assicurazioni","Banco Popolare",1
+"Milano Assicurazioni","Credito Bergamasco",1
+"Milano Assicurazioni","Fondiaria - Sai",8
+"Milano Assicurazioni","Impregilo",1
+"Milano Assicurazioni","Italmobiliare",1
+"Milano Assicurazioni","Mediobanca",1
+"Milano Assicurazioni","Pirelli & C.",1
+"Milano Assicurazioni","Rcs Mediagroup",1
+"Parmalat","Fiat",1
+"Parmalat","Finmeccanica",1
+"Parmalat","Italcementi",1
+"Parmalat","Luxottica Group",1
+"Parmalat","Mediaset",1
+"Parmalat","Pirelli & C.",1
+"Pirelli & C.","Alleanza Assicurazioni",1
+"Pirelli & C.","Assicurazioni Generali",1
+"Pirelli & C.","Atlantia",1
+"Pirelli & C.","Autogrill",1
+"Pirelli & C.","Benetton Group",1
+"Pirelli & C.","Fondiaria - Sai",1
+"Pirelli & C.","Geox",1
+"Pirelli & C.","Intesa Sanpaolo",1
+"Pirelli & C.","Italcementi",3
+"Pirelli & C.","Italmobiliare",1
+"Pirelli & C.","Mediaset",1
+"Pirelli & C.","Mediobanca",3
+"Pirelli & C.","Milano Assicurazioni",1
+"Pirelli & C.","Parmalat",1
+"Pirelli & C.","Pirelli & C. Real Estate",1
+"Pirelli & C.","Rcs Mediagroup",2
+"Pirelli & C.","Saras",1
+"Pirelli & C.","Telecom Italia",2
+"Pirelli & C.","Terna",1
+"Pirelli & C.","Unicredit",1
+"Pirelli & C. Real Estate","C.I.R.",1
+"Pirelli & C. Real Estate","Mediobanca",1
+"Pirelli & C. Real Estate","Pirelli & C.",1
+"Pirelli & C. Real Estate","Rcs Mediagroup",1
+"Prysmian","Atlantia",1
+"Rcs Mediagroup","Assicurazioni Generali",1
+"Rcs Mediagroup","Exor",2
+"Rcs Mediagroup","Fiat",1
+"Rcs Mediagroup","Fondiaria - Sai",1
+"Rcs Mediagroup","Intesa Sanpaolo",1
+"Rcs Mediagroup","Iride",1
+"Rcs Mediagroup","Italcementi",1
+"Rcs Mediagroup","Italmobiliare",2
+"Rcs Mediagroup","Mediobanca",4
+"Rcs Mediagroup","Milano Assicurazioni",1
+"Rcs Mediagroup","Pirelli & C.",2
+"Rcs Mediagroup","Pirelli & C. Real Estate",1
+"Rcs Mediagroup","Telecom Italia",2
+"Rcs Mediagroup","Tod'S",1
+"Rcs Mediagroup","Unicredit",1
+"Recordati","Banca Popolare Di Milano",1
+"Saipem","Luxottica Group",1
+"Saras","Gruppo Editoriale L'Espresso",1
+"Saras","Indesit Company",1
+"Saras","Pirelli & C.",1
+"Seat Pagine Gialle","Banca Italease",1
+"Seat Pagine Gialle","Fastweb",1
+"Società Cattolica Assicurazioni","Unione Di Banche Italiane",1
+"Societa' Iniziative Autostradali E Servizi - Sias","Autostrada Torino Milano",5
+"Societa' Iniziative Autostradali E Servizi - Sias","Impregilo",2
+"Telecom Italia","Alleanza Assicurazioni",1
+"Telecom Italia","Assicurazioni Generali",1
+"Telecom Italia","Fiat",1
+"Telecom Italia","Gemina",2
+"Telecom Italia","Intesa Sanpaolo",1
+"Telecom Italia","Italmobiliare",1
+"Telecom Italia","Mediobanca",2
+"Telecom Italia","Pirelli & C.",2
+"Telecom Italia","Rcs Mediagroup",2
+"Tenaris","Buzzi Unicem",1
+"Terna","Alleanza Assicurazioni",1
+"Terna","Autostrada Torino Milano",1
+"Terna","Pirelli & C.",1
+"Tod'S","Assicurazioni Generali",1
+"Tod'S","Banco Popolare",1
+"Tod'S","Fiat",1
+"Tod'S","Rcs Mediagroup",1
+"Unicredit","Credito Emiliano",2
+"Unicredit","Enel",1
+"Unicredit","Exor",1
+"Unicredit","Italcementi",1
+"Unicredit","Italmobiliare",1
+"Unicredit","Mediobanca",3
+"Unicredit","Pirelli & C.",1
+"Unicredit","Rcs Mediagroup",1
+"Unione Di Banche Italiane","Italcementi",1
+"Unione Di Banche Italiane","Società Cattolica Assicurazioni",1
+"Unipol","Banca Monte Dei Paschi Di Siena",1
+"Unipol","Hera",1
+*Tie properties
+FROM TO color size headcolor headsize active
+"A2a" "Credito Valtellinese" 0 1 0 8 TRUE
+"A2a" "Edison" 0 1 0 8 TRUE
+"A2a" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Autostrada Torino Milano" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Finmeccanica" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Gemina" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Mediobanca" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Pirelli & C." 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Telecom Italia" 0 1 0 8 TRUE
+"Alleanza Assicurazioni" "Terna" 0 1 0 8 TRUE
+"Arnoldo Mondadori Editore" "Eni" 0 1 0 8 TRUE
+"Arnoldo Mondadori Editore" "Maire Tecnimont" 0 1 0 8 TRUE
+"Arnoldo Mondadori Editore" "Mediaset" 0 1 0 8 TRUE
+"Arnoldo Mondadori Editore" "Mediobanca" 0 1 0 8 TRUE
+"Arnoldo Mondadori Editore" "Mediolanum" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Banca Monte Dei Paschi Di Siena" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Benetton Group" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Beni Stabili" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Eni" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Iride" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Italmobiliare" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Lottomatica" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Luxottica Group" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Mediobanca" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Pirelli & C." 0 1 0 8 TRUE
+"Assicurazioni Generali" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Telecom Italia" 0 1 0 8 TRUE
+"Assicurazioni Generali" "Tod'S" 0 1 0 8 TRUE
+"Atlantia" "Autogrill" 0 1 0 8 TRUE
+"Atlantia" "Benetton Group" 0 1 0 8 TRUE
+"Atlantia" "Edison" 0 1 0 8 TRUE
+"Atlantia" "Eni" 0 1 0 8 TRUE
+"Atlantia" "Fiat" 0 1 0 8 TRUE
+"Atlantia" "Impregilo" 0 1 0 8 TRUE
+"Atlantia" "Italcementi" 0 1 0 8 TRUE
+"Atlantia" "Luxottica Group" 0 1 0 8 TRUE
+"Atlantia" "Pirelli & C." 0 1 0 8 TRUE
+"Atlantia" "Prysmian" 0 1 0 8 TRUE
+"Autogrill" "Atlantia" 0 1 0 8 TRUE
+"Autogrill" "Benetton Group" 0 1 0 8 TRUE
+"Autogrill" "Bulgari" 0 1 0 8 TRUE
+"Autogrill" "Lottomatica" 0 1 0 8 TRUE
+"Autogrill" "Luxottica Group" 0 1 0 8 TRUE
+"Autogrill" "Mediobanca" 0 1 0 8 TRUE
+"Autogrill" "Pirelli & C." 0 1 0 8 TRUE
+"Autostrada Torino Milano" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Autostrada Torino Milano" "Davide Campari - Milano" 0 1 0 8 TRUE
+"Autostrada Torino Milano" "Impregilo" 0 1 0 8 TRUE
+"Autostrada Torino Milano" "Societa' Iniziative Autostradali E Servizi - Sias" 0 1 0 8 TRUE
+"Autostrada Torino Milano" "Terna" 0 1 0 8 TRUE
+"Banca Carige" "Eni" 0 1 0 8 TRUE
+"Banca Italease" "Banco Popolare" 0 1 0 8 TRUE
+"Banca Italease" "Erg" 0 1 0 8 TRUE
+"Banca Italease" "Seat Pagine Gialle" 0 1 0 8 TRUE
+"Banca Monte Dei Paschi Di Siena" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Banca Monte Dei Paschi Di Siena" "Unipol" 0 1 0 8 TRUE
+"Banca Popolare Dell'Emilia Romagna" "Hera" 0 1 0 8 TRUE
+"Banca Popolare Di Milano" "Recordati" 0 1 0 8 TRUE
+"Banca Popolare Di Sondrio" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Banca Popolare Di Sondrio" "Italcementi" 0 1 0 8 TRUE
+"Banco Popolare" "Banca Italease" 0 1 0 8 TRUE
+"Banco Popolare" "Credito Bergamasco" 0 1 0 8 TRUE
+"Banco Popolare" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Banco Popolare" "Tod'S" 0 1 0 8 TRUE
+"Benetton Group" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Benetton Group" "Atlantia" 0 1 0 8 TRUE
+"Benetton Group" "Autogrill" 0 1 0 8 TRUE
+"Benetton Group" "Luxottica Group" 0 1 0 8 TRUE
+"Benetton Group" "Mediobanca" 0 1 0 8 TRUE
+"Benetton Group" "Pirelli & C." 0 1 0 8 TRUE
+"Beni Stabili" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Beni Stabili" "Luxottica Group" 0 1 0 8 TRUE
+"Bulgari" "Autogrill" 0 1 0 8 TRUE
+"Bulgari" "Luxottica Group" 0 1 0 8 TRUE
+"Buzzi Unicem" "Tenaris" 0 1 0 8 TRUE
+"C.I.R." "Gruppo Editoriale L'Espresso" 0 1 0 8 TRUE
+"C.I.R." "Iride" 0 1 0 8 TRUE
+"C.I.R." "Pirelli & C. Real Estate" 0 1 0 8 TRUE
+"Credito Bergamasco" "Banco Popolare" 0 1 0 8 TRUE
+"Credito Bergamasco" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Credito Emiliano" "Davide Campari - Milano" 0 1 0 8 TRUE
+"Credito Emiliano" "Unicredit" 0 1 0 8 TRUE
+"Credito Valtellinese" "A2a" 0 1 0 8 TRUE
+"Credito Valtellinese" "Edison" 0 1 0 8 TRUE
+"Davide Campari - Milano" "Autostrada Torino Milano" 0 1 0 8 TRUE
+"Davide Campari - Milano" "Credito Emiliano" 0 1 0 8 TRUE
+"Davide Campari - Milano" "Fiat" 0 1 0 8 TRUE
+"Davide Campari - Milano" "Indesit Company" 0 1 0 8 TRUE
+"Edison" "A2a" 0 1 0 8 TRUE
+"Edison" "Atlantia" 0 1 0 8 TRUE
+"Edison" "Credito Valtellinese" 0 1 0 8 TRUE
+"Edison" "Enia" 0 1 0 8 TRUE
+"Edison" "Fiat" 0 1 0 8 TRUE
+"Enel" "Unicredit" 0 1 0 8 TRUE
+"Eni" "Arnoldo Mondadori Editore" 0 1 0 8 TRUE
+"Eni" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Eni" "Atlantia" 0 1 0 8 TRUE
+"Eni" "Banca Carige" 0 1 0 8 TRUE
+"Eni" "Italcementi" 0 1 0 8 TRUE
+"Eni" "Luxottica Group" 0 1 0 8 TRUE
+"Eni" "Maire Tecnimont" 0 1 0 8 TRUE
+"Eni" "Mediaset" 0 1 0 8 TRUE
+"Enia" "Edison" 0 1 0 8 TRUE
+"Erg" "Banca Italease" 0 1 0 8 TRUE
+"Exor" "Fiat" 0 1 0 8 TRUE
+"Exor" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Exor" "Unicredit" 0 1 0 8 TRUE
+"Fastweb" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Fastweb" "Seat Pagine Gialle" 0 1 0 8 TRUE
+"Fiat" "Atlantia" 0 1 0 8 TRUE
+"Fiat" "Davide Campari - Milano" 0 1 0 8 TRUE
+"Fiat" "Edison" 0 1 0 8 TRUE
+"Fiat" "Exor" 0 1 0 8 TRUE
+"Fiat" "Indesit Company" 0 1 0 8 TRUE
+"Fiat" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Fiat" "Parmalat" 0 1 0 8 TRUE
+"Fiat" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Fiat" "Telecom Italia" 0 1 0 8 TRUE
+"Fiat" "Tod'S" 0 1 0 8 TRUE
+"Finmeccanica" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Finmeccanica" "Parmalat" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Fastweb" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Impregilo" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Italmobiliare" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Mediobanca" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Fondiaria - Sai" "Pirelli & C." 0 1 0 8 TRUE
+"Fondiaria - Sai" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Gemina" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Gemina" "Impregilo" 0 1 0 8 TRUE
+"Gemina" "Telecom Italia" 0 1 0 8 TRUE
+"Geox" "Pirelli & C." 0 1 0 8 TRUE
+"Gruppo Editoriale L'Espresso" "C.I.R." 0 1 0 8 TRUE
+"Gruppo Editoriale L'Espresso" "Indesit Company" 0 1 0 8 TRUE
+"Gruppo Editoriale L'Espresso" "Luxottica Group" 0 1 0 8 TRUE
+"Gruppo Editoriale L'Espresso" "Saras" 0 1 0 8 TRUE
+"Hera" "Banca Popolare Dell'Emilia Romagna" 0 1 0 8 TRUE
+"Hera" "Unipol" 0 1 0 8 TRUE
+"Impregilo" "Atlantia" 0 1 0 8 TRUE
+"Impregilo" "Autostrada Torino Milano" 0 1 0 8 TRUE
+"Impregilo" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Impregilo" "Gemina" 0 1 0 8 TRUE
+"Impregilo" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Impregilo" "Societa' Iniziative Autostradali E Servizi - Sias" 0 1 0 8 TRUE
+"Indesit Company" "Davide Campari - Milano" 0 1 0 8 TRUE
+"Indesit Company" "Fiat" 0 1 0 8 TRUE
+"Indesit Company" "Gruppo Editoriale L'Espresso" 0 1 0 8 TRUE
+"Indesit Company" "Italcementi" 0 1 0 8 TRUE
+"Indesit Company" "Saras" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Banca Popolare Di Sondrio" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Fiat" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Pirelli & C." 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Intesa Sanpaolo" "Telecom Italia" 0 1 0 8 TRUE
+"Iride" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Iride" "C.I.R." 0 1 0 8 TRUE
+"Iride" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Italcementi" "Atlantia" 0 1 0 8 TRUE
+"Italcementi" "Banca Popolare Di Sondrio" 0 1 0 8 TRUE
+"Italcementi" "Eni" 0 1 0 8 TRUE
+"Italcementi" "Indesit Company" 0 1 0 8 TRUE
+"Italcementi" "Italmobiliare" 0 1 0 8 TRUE
+"Italcementi" "Mediaset" 0 1 0 8 TRUE
+"Italcementi" "Mediobanca" 0 1 0 8 TRUE
+"Italcementi" "Parmalat" 0 1 0 8 TRUE
+"Italcementi" "Pirelli & C." 0 1 0 8 TRUE
+"Italcementi" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Italcementi" "Unicredit" 0 1 0 8 TRUE
+"Italcementi" "Unione Di Banche Italiane" 0 1 0 8 TRUE
+"Italmobiliare" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Italmobiliare" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Italmobiliare" "Italcementi" 0 1 0 8 TRUE
+"Italmobiliare" "Mediobanca" 0 1 0 8 TRUE
+"Italmobiliare" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Italmobiliare" "Pirelli & C." 0 1 0 8 TRUE
+"Italmobiliare" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Italmobiliare" "Telecom Italia" 0 1 0 8 TRUE
+"Italmobiliare" "Unicredit" 0 1 0 8 TRUE
+"Lottomatica" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Lottomatica" "Autogrill" 0 1 0 8 TRUE
+"Luxottica Group" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Luxottica Group" "Atlantia" 0 1 0 8 TRUE
+"Luxottica Group" "Autogrill" 0 1 0 8 TRUE
+"Luxottica Group" "Benetton Group" 0 1 0 8 TRUE
+"Luxottica Group" "Beni Stabili" 0 1 0 8 TRUE
+"Luxottica Group" "Bulgari" 0 1 0 8 TRUE
+"Luxottica Group" "Eni" 0 1 0 8 TRUE
+"Luxottica Group" "Gruppo Editoriale L'Espresso" 0 1 0 8 TRUE
+"Luxottica Group" "Parmalat" 0 1 0 8 TRUE
+"Luxottica Group" "Saipem" 0 1 0 8 TRUE
+"Maire Tecnimont" "Arnoldo Mondadori Editore" 0 1 0 8 TRUE
+"Maire Tecnimont" "Eni" 0 1 0 8 TRUE
+"Mediaset" "Arnoldo Mondadori Editore" 0 1 0 8 TRUE
+"Mediaset" "Eni" 0 1 0 8 TRUE
+"Mediaset" "Italcementi" 0 1 0 8 TRUE
+"Mediaset" "Mediobanca" 0 1 0 8 TRUE
+"Mediaset" "Mediolanum" 0 1 0 8 TRUE
+"Mediaset" "Parmalat" 0 1 0 8 TRUE
+"Mediaset" "Pirelli & C." 0 1 0 8 TRUE
+"Mediobanca" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Mediobanca" "Arnoldo Mondadori Editore" 0 1 0 8 TRUE
+"Mediobanca" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Mediobanca" "Autogrill" 0 1 0 8 TRUE
+"Mediobanca" "Benetton Group" 0 1 0 8 TRUE
+"Mediobanca" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Mediobanca" "Italcementi" 0 1 0 8 TRUE
+"Mediobanca" "Italmobiliare" 0 1 0 8 TRUE
+"Mediobanca" "Mediaset" 0 1 0 8 TRUE
+"Mediobanca" "Mediolanum" 0 1 0 8 TRUE
+"Mediobanca" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Mediobanca" "Pirelli & C." 0 1 0 8 TRUE
+"Mediobanca" "Pirelli & C. Real Estate" 0 1 0 8 TRUE
+"Mediobanca" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Mediobanca" "Telecom Italia" 0 1 0 8 TRUE
+"Mediobanca" "Unicredit" 0 1 0 8 TRUE
+"Mediolanum" "Arnoldo Mondadori Editore" 0 1 0 8 TRUE
+"Mediolanum" "Mediaset" 0 1 0 8 TRUE
+"Mediolanum" "Mediobanca" 0 1 0 8 TRUE
+"Milano Assicurazioni" "A2a" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Banco Popolare" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Credito Bergamasco" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Impregilo" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Italmobiliare" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Mediobanca" 0 1 0 8 TRUE
+"Milano Assicurazioni" "Pirelli & C." 0 1 0 8 TRUE
+"Milano Assicurazioni" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Parmalat" "Fiat" 0 1 0 8 TRUE
+"Parmalat" "Finmeccanica" 0 1 0 8 TRUE
+"Parmalat" "Italcementi" 0 1 0 8 TRUE
+"Parmalat" "Luxottica Group" 0 1 0 8 TRUE
+"Parmalat" "Mediaset" 0 1 0 8 TRUE
+"Parmalat" "Pirelli & C." 0 1 0 8 TRUE
+"Pirelli & C." "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Pirelli & C." "Assicurazioni Generali" 0 1 0 8 TRUE
+"Pirelli & C." "Atlantia" 0 1 0 8 TRUE
+"Pirelli & C." "Autogrill" 0 1 0 8 TRUE
+"Pirelli & C." "Benetton Group" 0 1 0 8 TRUE
+"Pirelli & C." "Fondiaria - Sai" 0 1 0 8 TRUE
+"Pirelli & C." "Geox" 0 1 0 8 TRUE
+"Pirelli & C." "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Pirelli & C." "Italcementi" 0 1 0 8 TRUE
+"Pirelli & C." "Italmobiliare" 0 1 0 8 TRUE
+"Pirelli & C." "Mediaset" 0 1 0 8 TRUE
+"Pirelli & C." "Mediobanca" 0 1 0 8 TRUE
+"Pirelli & C." "Milano Assicurazioni" 0 1 0 8 TRUE
+"Pirelli & C." "Parmalat" 0 1 0 8 TRUE
+"Pirelli & C." "Pirelli & C. Real Estate" 0 1 0 8 TRUE
+"Pirelli & C." "Rcs Mediagroup" 0 1 0 8 TRUE
+"Pirelli & C." "Saras" 0 1 0 8 TRUE
+"Pirelli & C." "Telecom Italia" 0 1 0 8 TRUE
+"Pirelli & C." "Terna" 0 1 0 8 TRUE
+"Pirelli & C." "Unicredit" 0 1 0 8 TRUE
+"Pirelli & C. Real Estate" "C.I.R." 0 1 0 8 TRUE
+"Pirelli & C. Real Estate" "Mediobanca" 0 1 0 8 TRUE
+"Pirelli & C. Real Estate" "Pirelli & C." 0 1 0 8 TRUE
+"Pirelli & C. Real Estate" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Prysmian" "Atlantia" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Exor" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Fiat" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Fondiaria - Sai" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Iride" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Italcementi" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Italmobiliare" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Mediobanca" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Milano Assicurazioni" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Pirelli & C." 0 1 0 8 TRUE
+"Rcs Mediagroup" "Pirelli & C. Real Estate" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Telecom Italia" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Tod'S" 0 1 0 8 TRUE
+"Rcs Mediagroup" "Unicredit" 0 1 0 8 TRUE
+"Recordati" "Banca Popolare Di Milano" 0 1 0 8 TRUE
+"Saipem" "Luxottica Group" 0 1 0 8 TRUE
+"Saras" "Gruppo Editoriale L'Espresso" 0 1 0 8 TRUE
+"Saras" "Indesit Company" 0 1 0 8 TRUE
+"Saras" "Pirelli & C." 0 1 0 8 TRUE
+"Seat Pagine Gialle" "Banca Italease" 0 1 0 8 TRUE
+"Seat Pagine Gialle" "Fastweb" 0 1 0 8 TRUE
+"Società Cattolica Assicurazioni" "Unione Di Banche Italiane" 0 1 0 8 TRUE
+"Societa' Iniziative Autostradali E Servizi - Sias" "Autostrada Torino Milano" 0 1 0 8 TRUE
+"Societa' Iniziative Autostradali E Servizi - Sias" "Impregilo" 0 1 0 8 TRUE
+"Telecom Italia" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Telecom Italia" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Telecom Italia" "Fiat" 0 1 0 8 TRUE
+"Telecom Italia" "Gemina" 0 1 0 8 TRUE
+"Telecom Italia" "Intesa Sanpaolo" 0 1 0 8 TRUE
+"Telecom Italia" "Italmobiliare" 0 1 0 8 TRUE
+"Telecom Italia" "Mediobanca" 0 1 0 8 TRUE
+"Telecom Italia" "Pirelli & C." 0 1 0 8 TRUE
+"Telecom Italia" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Tenaris" "Buzzi Unicem" 0 1 0 8 TRUE
+"Terna" "Alleanza Assicurazioni" 0 1 0 8 TRUE
+"Terna" "Autostrada Torino Milano" 0 1 0 8 TRUE
+"Terna" "Pirelli & C." 0 1 0 8 TRUE
+"Tod'S" "Assicurazioni Generali" 0 1 0 8 TRUE
+"Tod'S" "Banco Popolare" 0 1 0 8 TRUE
+"Tod'S" "Fiat" 0 1 0 8 TRUE
+"Tod'S" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Unicredit" "Credito Emiliano" 0 1 0 8 TRUE
+"Unicredit" "Enel" 0 1 0 8 TRUE
+"Unicredit" "Exor" 0 1 0 8 TRUE
+"Unicredit" "Italcementi" 0 1 0 8 TRUE
+"Unicredit" "Italmobiliare" 0 1 0 8 TRUE
+"Unicredit" "Mediobanca" 0 1 0 8 TRUE
+"Unicredit" "Pirelli & C." 0 1 0 8 TRUE
+"Unicredit" "Rcs Mediagroup" 0 1 0 8 TRUE
+"Unione Di Banche Italiane" "Italcementi" 0 1 0 8 TRUE
+"Unione Di Banche Italiane" "Società Cattolica Assicurazioni" 0 1 0 8 TRUE
+"Unipol" "Banca Monte Dei Paschi Di Siena" 0 1 0 8 TRUE
+"Unipol" "Hera" 0 1 0 8 TRUE
